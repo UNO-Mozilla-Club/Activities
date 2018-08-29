@@ -56,11 +56,9 @@ https://desktop.github.com/
 
 Gives git a GUI that removes the need for terminal commands.
 
-<<<<<<< HEAD
+
 ![GUI](images/githubDesktop.png)
-=======
-![27 PM](/images/Screen Shot 2018-08-28 at 1.16.27 PM.png)
->>>>>>> 9c9f6535722dd7df0287fbfbc8f6cf4a41b897ac
+
 
 Github Student Developer Pack
 
