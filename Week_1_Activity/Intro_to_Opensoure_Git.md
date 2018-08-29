@@ -48,7 +48,7 @@ A platform for hosting repositories, be it for opensource, personal, or business
 
 Starting a Repo on Github
 
-![32 PM](images/Screen Shot 2018-08-28 at 1.11.32 PM.png)
+![32 PM](images/newRepo.png)
 
 Github Desktop
 
@@ -56,7 +56,7 @@ https://desktop.github.com/
 
 Gives git a GUI that removes the need for terminal commands.
 
-![27 PM](images/Screen Shot 2018-08-28 at 1.16.27 PM.png)
+![GUI](images/githubDesktop.png)
 
 Github Student Developer Pack
 
