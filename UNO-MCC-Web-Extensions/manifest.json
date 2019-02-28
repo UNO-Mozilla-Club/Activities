@@ -1,0 +1,29 @@
+{
+
+  "manifest_version": 2,
+  "name": "Cat Pictures",
+  "version": "1.0",
+
+  "description": "finds stuff",
+  "icons": {
+    "48": "icons/cat-48.png"
+  },
+
+  "permissions": [
+  ],
+  
+  "background": {
+  "scripts": ["background_scripts/cat.js"]
+  },
+
+  "browser_action": {
+    "default_icon": "icons/cat-32.png",
+    "default_title": "Cat Pictures"
+  },
+
+  "icons": {
+    "48": "icons/cat-48.png",
+    "96": "icons/cat-96.png"
+  }
+
+}
